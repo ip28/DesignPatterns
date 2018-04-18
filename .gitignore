@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DesignPatterns/DesignPatterns/.vs/DesignPatterns/v15/Server/sqlite3
+/.vs
+/DesignPatterns/DesignPatterns/CoR/obj/x86/Debug
+/DesignPatterns/DesignPatterns/Observer/bin/Debug
+/DesignPatterns/DesignPatterns/Observer/obj/x86/Debug
+/DesignPatterns/DesignPatterns/Strategy/bin/Debug
+/DesignPatterns/DesignPatterns/Strategy/obj/x86/Debug
+/DesignPatterns/DesignPatterns/TemplateMethod/bin/Debug
+/DesignPatterns/DesignPatterns/TemplateMethod/obj/x86/Debug
+/DesignPatterns/DesignPatterns/CoR/bin/Debug
+/DesignPatterns/DesignPatterns/Command/bin/Debug
+/DesignPatterns/DesignPatterns/Command/obj/x86/Debug
